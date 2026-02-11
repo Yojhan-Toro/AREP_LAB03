@@ -67,5 +67,7 @@ A continuación se muestran algunos pantallazos del proceso de despliegue del mo
 ![Prueba de la ejecucion](images/3.png)
 ![Prueba de la ejecucion](images/4.png)
 
+Debido a los permisos de la cuenta de AWS academy no se puede desplegar el modelo.
+
 ## Autores
 - Yojhan Toro Rivera - Desarrollo del laboratorio y análisis de resultados
